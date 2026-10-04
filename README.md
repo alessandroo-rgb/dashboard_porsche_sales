@@ -41,7 +41,7 @@ O resultado é uma aplicação interativa capaz de transformar dados em informa�
 
 A Inteligência Artificial não é apenas uma ferramenta para geração de texto. Quando utilizada com prompts bem estruturados e conhecimento de negócio, ela pode aumentar significativamente a produtividade na análise de dados, no tratamento de bases e no desenvolvimento de soluções analíticas completas.
 
-## 👨‍💻 Autor
+## Autor
 
 Alessandro Oliveira
 
