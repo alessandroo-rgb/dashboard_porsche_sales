@@ -1,5 +1,7 @@
 # Porsche Sales Intelligence Dashboard
 
+[![Porsche Sales Intelligence Dashboard](assets/porsche_banner.png)](https://alessandroo-rgb.github.io/dashboard_porsche_sales/)
+
 Dashboard interativo de vendas desenvolvido durante o curso Excel com IA da DIO, combinando análise de dados, visualização e Inteligência Artificial para geração de insights de negócio.
 
 ## Dashboard Online
